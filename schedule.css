@@ -1,0 +1,23 @@
+table {
+  text-align: left;
+}
+tr {
+  width: 100px;
+}
+h1 {
+  text-decoration:underline;
+  font-weight: bold;
+}
+/* color palette adapted from: http://www.colourlovers.com/palette/34448/2_Kool_for_Skool*/
+.color {
+  color:white;
+  background-color: #541F14;
+
+}
+.random {
+ background-color: #CC9E61;
+}
+td:hover {
+  background-color: green;
+  color:yellow;
+}
